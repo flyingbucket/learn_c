@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基本语法/宏macro.md",
-                "mode": "preview",
+                "file": "1.基本语法/Enumerated Types.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "宏macro"
+              "title": "Enumerated Types"
             }
           }
         ]
@@ -171,16 +171,23 @@
   },
   "active": "6adccfaa8b1c53be",
   "lastOpenFiles": [
-    "基本语法/遮蔽(shadowing）.md",
-    "基本语法/逻辑运算符.md",
-    "基本语法/局部变量、全局变量与静态变量.md",
+    "Untitled.md",
+    "1.基本语法/Enumerated Types.md",
+    "4.内存管理与系统调度",
+    "3.指针、数组与递归算法",
+    "1.基本语法/结构体(struct).md",
+    "1.基本语法/typedef.md",
+    "2.编译方式",
+    "1.基本语法/局部变量、全局变量与静态变量.md",
+    "1.基本语法/宏macro.md",
+    "1.基本语法/遮蔽(shadowing）.md",
+    "1.基本语法/逻辑运算符.md",
     "data type.md",
     "基本语法/extern与static.md",
     "基本语法/作用域与生存期.md",
     "未命名.md",
-    "基本语法/宏macro.md",
-    "基本语法/data type.md",
-    "基本语法",
+    "1.基本语法/data type.md",
+    "1.基本语法",
     "Welcome.md"
   ]
 }
