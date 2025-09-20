@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基本语法/局部变量、全局变量与静态变量.md",
+                "file": "基本语法/宏macro.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "局部变量、全局变量与静态变量"
+              "title": "宏macro"
             }
           }
         ]
@@ -172,6 +172,7 @@
   "active": "6adccfaa8b1c53be",
   "lastOpenFiles": [
     "基本语法/遮蔽(shadowing）.md",
+    "基本语法/逻辑运算符.md",
     "基本语法/局部变量、全局变量与静态变量.md",
     "data type.md",
     "基本语法/extern与static.md",
